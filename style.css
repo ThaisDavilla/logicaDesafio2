@@ -1,4 +1,25 @@
-let idade = 19
-if (idade >= 18){
-  console.log ('Acesso liberado!')
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: cadetblue;
+}
+h1{
+  text-align: center;
+  margin-top: 10px;
+}
+p{ 
+  text-align: center;
+  margin-top: 11px;
+  font-size: 25px;
+}
+h2{
+  text-align: center;
+  margin-top: 15px;
+}
+img{
+  margin-left: 30em;
+  margin-top: 5em;
 }
